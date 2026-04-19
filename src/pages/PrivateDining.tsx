@@ -23,8 +23,8 @@ const eventTypes = [
   },
   {
     icon: <Music className="text-teal-mid" />,
-    title: "Shooting Parties",
-    desc: "A traditional favorite in Somerset. We offer early breakfasts and late-night hearty banquets for sporting groups."
+    title: "Walking Parties",
+    desc: "A traditional favorite in Somerset. We offer early breakfasts and late-night hearty banquets for rambling groups."
   }
 ];
 
